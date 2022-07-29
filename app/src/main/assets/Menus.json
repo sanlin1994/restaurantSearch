@@ -1,0 +1,249 @@
+{
+"menus":[
+{
+"restaurantId":1,
+"categories":[
+{
+"id":"26576",
+"name":"Appeteasers",
+"menuItems":[
+{
+"id":"94298",
+"name":"3 Chicken Wings",
+"description":"Tender, Spicy and Juicy. Original or Peri-Crusted",
+"price":"250.00",
+"images":[
+]
+},
+{
+"id":"94301",
+"name":"Chicken Livers and Portuguese Roll",
+"description":"Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+"price":"250.00",
+"images":[
+]
+}
+]
+},
+{
+"id":"26588",
+"name":"Peri-peri chicken",
+"menuItems":[
+{
+"id":"94349",
+"name":"1/4 Chicken",
+"description":"Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+"price":"385.00",
+"images":[
+]
+},
+{
+"id":"94352",
+"name":"1/2 Chicken",
+"description":"Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+"price":"685.00",
+"images":[
+]
+}
+]
+}
+]
+},
+  {
+    "restaurantId":2,
+    "categories":[
+      {
+        "id":"26576",
+        "name":"Appeteasers",
+        "menuItems":[
+          {
+            "id":"94298",
+            "name":"3 Mutton Wings",
+            "description":"Tender, Spicy and Juicy. Original or Peri-Crusted",
+            "price":"250.00",
+            "images":[
+            ]
+          },
+          {
+            "id":"94301",
+            "name":"Mutton Livers and Portuguese Roll",
+            "description":"Mutton Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+            "price":"250.00",
+            "images":[
+            ]
+          }
+        ]
+      },
+      {
+        "id":"26588",
+        "name":"Peri-peri Mutton",
+        "menuItems":[
+          {
+            "id":"94349",
+            "name":"1/4 Mutton",
+            "description":"Quarter Mutton Marinated with PERi-PERi Sauce and Grilled",
+            "price":"385.00",
+            "images":[
+            ]
+          },
+          {
+            "id":"94352",
+            "name":"1/2 Mutton",
+            "description":"Half Mutton Marinated with PERi-PERi Sauce and Grilled",
+            "price":"685.00",
+            "images":[
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId":3,
+    "categories":[
+      {
+        "id":"26576",
+        "name":"Appeteasers",
+        "menuItems":[
+          {
+            "id":"94298",
+            "name":"8 Inch Pizza",
+            "description":"Pizza thin crust",
+            "price":"250.00",
+            "images":[
+            ]
+          },
+          {
+            "id":"94301",
+            "name":"Chicken meat balls",
+            "description":"Chicken meat balls with BBQ sauce",
+            "price":"250.00",
+            "images":[
+            ]
+          }
+        ]
+      },
+      {
+        "id":"26588",
+        "name":"Peri-peri chicken",
+        "menuItems":[
+          {
+            "id":"94349",
+            "name":"11 inch Pizza",
+            "description":"Chicken sausage 11 inch pizza",
+            "price":"385.00",
+            "images":[
+            ]
+          },
+          {
+            "id":"94352",
+            "name":"Garlic bread",
+            "description":"Butter toasted Garlic bread",
+            "price":"685.00",
+            "images":[
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId":4,
+    "categories":[
+      {
+        "id":"26576",
+        "name":"Appeteasers",
+        "menuItems":[
+          {
+            "id":"94298",
+            "name":"6 Chicken Fried Wings",
+            "description":"Tender, Spicy and Juicy. Original or Peri-Crusted",
+            "price":"250.00",
+            "images":[
+            ]
+          },
+          {
+            "id":"94301",
+            "name":"Fried Chicken Livers and Portuguese Roll",
+            "description":"Fried Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce",
+            "price":"250.00",
+            "images":[
+            ]
+          }
+        ]
+      },
+      {
+        "id":"26588",
+        "name":"Peri-peri chicken",
+        "menuItems":[
+          {
+            "id":"94349",
+            "name":"1/4 Fried Chicken",
+            "description":"Fried Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+            "price":"385.00",
+            "images":[
+            ]
+          },
+          {
+            "id":"94352",
+            "name":"1/2 Fried Chicken",
+            "description":"Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+            "price":"685.00",
+            "images":[
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId":5,
+    "categories":[
+      {
+        "id":"26576",
+        "name":"Appeteasers",
+        "menuItems":[
+          {
+            "id":"94298",
+            "name":"Double patty burger",
+            "description":"Juicy double patty burger with american cheese",
+            "price":"250.00",
+            "images":[
+            ]
+          },
+          {
+            "id":"94301",
+            "name":"Veg burger",
+            "description":"Veg burger with fresh veggies and beg patties",
+            "price":"250.00",
+            "images":[
+            ]
+          }
+        ]
+      },
+      {
+        "id":"26588",
+        "name":"Peri-peri chicken",
+        "menuItems":[
+          {
+            "id":"94349",
+            "name":"Tandoori burger",
+            "description":"Spicy tandoori burger with hot and sweet mayo",
+            "price":"385.00",
+            "images":[
+            ]
+          },
+          {
+            "id":"94352",
+            "name":"Egg Burger",
+            "description":"Egg burger with salt and pepper",
+            "price":"685.00",
+            "images":[
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+}
